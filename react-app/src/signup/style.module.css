@@ -1,0 +1,9 @@
+.container{
+    display: flexbox;
+    height: 500px;
+    width:350px;
+    text-align: center;
+    background: white;
+    border:10px solid #01a3a4;
+    margin: 0 auto;
+}

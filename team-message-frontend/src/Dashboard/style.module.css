@@ -1,0 +1,31 @@
+.fullContainer {
+  display: flex;
+  padding: 0px;
+  margin: 0px;
+  background-color: rgb(250, 249, 244);
+}
+.messages {
+  width: 60%;
+  border: solid 1px;
+  border-bottom: none;
+  position: relative;
+  padding-bottom: 30px !important;
+}
+.people {
+  width: 25%;
+}
+.ChannelNameBox {
+  border: solid black 2px;
+  margin: 5px auto;
+  border-radius: 10px;
+  width: 85%;
+}
+.PeopleNameHeading {
+  margin: 20px 3px;
+}
+.ChannelSearch {
+  margin: 5px auto;
+}
+.channelList {
+  width: 25%;
+}

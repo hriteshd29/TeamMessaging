@@ -3,6 +3,7 @@
   padding: 0px;
   margin: 0px;
   background-color: rgb(250, 249, 244);
+  border-bottom: 2px;
 }
 .messages {
   width: 60%;
